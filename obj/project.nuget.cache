@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bfzD7CM9+JWCoo9SsjwT2P9dsOiMs7RcfZgSN5+DOaHmzD3MAUQZhMSiO4xaz240PGGDCTXpWh/kXMWDufpQEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josht\\joshDEMO-URL-IP-SCANNER\\DEMO1-ANTIVIRUS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josht\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\josht\\.nuget\\packages\\virustotalnet\\2.2.0\\virustotalnet.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
